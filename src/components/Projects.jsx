@@ -8,12 +8,12 @@ const Projects = () => {
     {
       title: '1',
       icon: '1',
-      images: ['/src/assets/berita4.png', '/src/assets/berita5.png', '/src/assets/berita1.png', '/src/assets/berita2.png', '/src/assets/berita3.png']
+      images: ['/images/berita4.png', '/images/berita5.png', '/images/berita1.png', '/images/berita2.png', '/images/berita3.png']
     },
     {
       title: '2',
       icon: '2',
-      images: ['/src/assets/buku1.png', '/src/assets/buku2.png']
+      images: ['/images/buku1.png', '/images/buku2.png']
     },
   ];
 
@@ -62,10 +62,10 @@ const Projects = () => {
             {projectList[selected].images.length > 1 && (
               <>
                 <button className="nav-arrow left" onClick={handlePrev}>
-                  <img src="/src/assets/left-arrow.png" alt="prev" className="arrow-icon" />
+                  <img src="/images/left-arrow.png" alt="prev" className="arrow-icon" />
                 </button>
                 <button className="nav-arrow right" onClick={handleNext}>
-                  <img src="/src/assets/right-arrow.png" alt="next" className="arrow-icon" />
+                  <img src="/images/right-arrow.png" alt="next" className="arrow-icon" />
                 </button>
               </>
             )}

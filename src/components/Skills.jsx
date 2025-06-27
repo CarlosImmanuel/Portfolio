@@ -27,18 +27,18 @@ const Skills = () => {
             <div className="fade-in-out">
               <h4 className="center-text">Programming Language and Framework</h4>
               <div className="skill-icons center-icons">
-                <img src="/src/assets/html.png" alt="HTML" />
-                <img src="/src/assets/css.png" alt="CSS" />
-                <img src="/src/assets/laravel.png" alt="Laravel" />
-                <img src="/src/assets/js.png" alt="JavaScript" />
-                <img src="/src/assets/java.png" alt="Java" />
-                <img src="/src/assets/flutter.png" alt="Flutter" />
-                <img src="/src/assets/vue.png" alt="Vue" />
-                <img src="/src/assets/ardu.png" alt="Arduino" />
-                <img src="/src/assets/boot.png" alt="Bootstrap" />
-                <img src="/src/assets/php.png" alt="PHP" />
-                <img src="/src/assets/c.png" alt="C" />
-                <img src="/src/assets/c++.png" alt="C++" />
+                <img src="/images/html.png" alt="HTML" />
+                <img src="/images/css.png" alt="CSS" />
+                <img src="/images/laravel.png" alt="Laravel" />
+                <img src="/images/js.png" alt="JavaScript" />
+                <img src="/images/java.png" alt="Java" />
+                <img src="/images/flutter.png" alt="Flutter" />
+                <img src="/images/vue.png" alt="Vue" />
+                <img src="/images/ardu.png" alt="Arduino" />
+                <img src="/images/boot.png" alt="Bootstrap" />
+                <img src="/images/php.png" alt="PHP" />
+                <img src="/images/c.png" alt="C" />
+                <img src="/images/c++.png" alt="C++" />
               </div>
             </div>
           )}
@@ -47,11 +47,11 @@ const Skills = () => {
             <div className="fade-in-out">
               <h4 className="center-text">Tools</h4>
               <div className="skill-icons center-icons">
-                <img src="/src/assets/vscode.png" alt="VSCode" />
-                <img src="/src/assets/github.png" alt="GitHub" />
-                <img src="/src/assets/source.png" alt="SourceTree" />
-                <img src="/src/assets/figma.png" alt="Figma" />
-                <img src="/src/assets/post.png" alt="PostMan" />
+                <img src="/images/vscode.png" alt="VSCode" />
+                <img src="/images/github.png" alt="GitHub" />
+                <img src="/images/source.png" alt="SourceTree" />
+                <img src="/images/figma.png" alt="Figma" />
+                <img src="/images/post.png" alt="PostMan" />
               </div>
             </div>
           )}
@@ -60,7 +60,7 @@ const Skills = () => {
             <div className="fade-in-out">
               <h4 className="center-text">Database</h4>
               <div className="skill-icons center-icons">
-                <img src="/src/assets/sql2.png" alt="MySQL" />
+                <img src="/images/sql2.png" alt="MySQL" />
               </div>
             </div>
           )}

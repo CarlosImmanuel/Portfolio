@@ -8,7 +8,7 @@ const Projects = () => {
     {
       title: '1',
       icon: '1',
-      images: ['/images/berita4.png', '/images/berita5.png', '/images/berita1.png', '/images/berita2.png', '/images/berita3.png']
+      images: ['/images/Berita4.png', '/images/Berita5.png', '/images/Berita1.png', '/images/Berita2.png', '/images/Berita3.png']
     },
     {
       title: '2',

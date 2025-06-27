@@ -27,18 +27,18 @@ const Skills = () => {
             <div className="fade-in-out">
               <h4 className="center-text">Programming Language and Framework</h4>
               <div className="skill-icons center-icons">
-                <img src="/images/html.png" alt="HTML" />
-                <img src="/images/css.png" alt="CSS" />
-                <img src="/images/laravel.png" alt="Laravel" />
-                <img src="/images/js.png" alt="JavaScript" />
-                <img src="/images/java.png" alt="Java" />
-                <img src="/images/flutter.png" alt="Flutter" />
-                <img src="/images/vue.png" alt="Vue" />
-                <img src="/images/ardu.png" alt="Arduino" />
-                <img src="/images/boot.png" alt="Bootstrap" />
-                <img src="/images/php.png" alt="PHP" />
-                <img src="/images/c.png" alt="C" />
-                <img src="/images/c++.png" alt="C++" />
+                <img src="/images/HTML.png" alt="HTML" />
+                <img src="/images/CSS.png" alt="CSS" />
+                <img src="/images/Laravel.png" alt="Laravel" />
+                <img src="/images/JS.png" alt="JavaScript" />
+                <img src="/images/Java.png" alt="Java" />
+                <img src="/images/Flutter.png" alt="Flutter" />
+                <img src="/images/Vue.png" alt="Vue" />
+                <img src="/images/Ardu.png" alt="Arduino" />
+                <img src="/images/Boot.png" alt="Bootstrap" />
+                <img src="/images/PHP.png" alt="PHP" />
+                <img src="/images/C.png" alt="C" />
+                <img src="/images/C++.png" alt="C++" />
               </div>
             </div>
           )}
@@ -49,9 +49,9 @@ const Skills = () => {
               <div className="skill-icons center-icons">
                 <img src="/images/vscode.png" alt="VSCode" />
                 <img src="/images/github.png" alt="GitHub" />
-                <img src="/images/source.png" alt="SourceTree" />
-                <img src="/images/figma.png" alt="Figma" />
-                <img src="/images/post.png" alt="PostMan" />
+                <img src="/images/Source.png" alt="SourceTree" />
+                <img src="/images/Figma.png" alt="Figma" />
+                <img src="/images/Post.png" alt="PostMan" />
               </div>
             </div>
           )}

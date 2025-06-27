@@ -6,7 +6,7 @@ const About = () => {
         <div className="about-text">
           <h2>HELLO</h2>
           <p>
-            My name is Carlos Immanuel Tampubolon, a programmer specializing in Frontend Development. I have a strong interest in building responsive, clean, and user-friendly web interfaces. Familiar with C++, Vue, Laravel, Bootstrap, Java, and others. I always strive to keep up with technological advancements to continuously improve the quality of my work.
+            My name is Carlos Immanuel Tampubolon, a programmer specializing in Frontend Development. I have a strong interest in building cool, clean, visually appealing web interfaces and user-friendly web interfaces. Familiar with C++, Vue, Laravel, Bootstrap, Java, and others. I always strive to keep up with technological advancements to continuously improve the quality of my work.
           </p>
           <div className="contact-grid">
             <div className="contact-item">

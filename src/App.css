@@ -1,7 +1,12 @@
 /* App.css */
 
+* {
+  box-sizing: border-box;
+}
+
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 .app-page {
@@ -74,7 +79,7 @@ html {
 
 .hero-title {
   font-weight: 900;
-  font-size: 11rem;
+  font-size: clamp(3rem, 20vw, 11rem);
   margin-bottom: 0;
   font-family: 'Oswald', sans-serif;
   background: linear-gradient(to right, #ffffff, #FF9407);
@@ -105,6 +110,25 @@ html {
 
 .hero-subtitle .name {
   color: #FF9407;
+}
+
+@media (max-width: 420px) {
+  .hero-title {
+    font-size: 4rem;
+  }
+
+  .hero-subtitle {
+    flex-direction: column;
+    gap: 0.3rem;
+  }
+
+  .hero-subtitle span {
+    font-size: 0.9rem;
+  }
+
+  .hero-subtitle .divider {
+    display: none; /* opsional, biar gak ganggu */
+  }
 }
 
 .about-section {

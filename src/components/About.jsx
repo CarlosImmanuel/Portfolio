@@ -10,7 +10,7 @@ const About = () => {
           </p>
           <div className="contact-grid">
             <div className="contact-item">
-              <img src="/src/assets/Email.png" alt="email" className="icon" />
+              <img src="/images/Email.png" alt="email" className="icon" />
               <span>carlosnuel1208@gmail.com</span>
             </div>
             <div className="contact-item">
